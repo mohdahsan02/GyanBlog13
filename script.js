@@ -1,0 +1,1 @@
+console.log("GyanBlog13 Loaded - Cool Template Version");
