@@ -34,8 +34,9 @@ main {
   color: #2c3e50;
 }
 .blog-post img {
+  display: block;
   max-width: 100%;
-  margin: 20px 0;
+  margin: 20px auto;
   border-radius: 8px;
 }
 table {
