@@ -1,1 +1,1 @@
-console.log("GyanBlog13 Loaded - Cool Template Version");
+console.log("PAN Status Blog Page Loaded!");
